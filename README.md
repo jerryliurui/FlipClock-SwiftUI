@@ -4,7 +4,9 @@
 这个项目是个人实现一些SwiftUI 效果的Demo 工程，关于翻页时钟的部分可以在Advance文件夹中的FlipClock 中找到相应swift文件
 
 FlipClock()-> 主体SwiftUI 翻页时钟View
+
 FlipClockSingleTimeView() -> 单个数字View
+
 TimeHolder() -> Observeble time holder，管理当前时间
 
 大体效果如下
